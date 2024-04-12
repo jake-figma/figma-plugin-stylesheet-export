@@ -1,4 +1,4 @@
-# Stylesheet Export
+# Stylesheet Export Figma Plugin
 
 [Figma Plugin API docs](https://www.figma.com/plugin-docs/api/api-reference/)
 
