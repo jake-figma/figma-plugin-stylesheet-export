@@ -1,0 +1,13 @@
+{
+  "name": "Stylesheet Export",
+  "id": "888805261747778099",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma", "dev"],
+  "capabilities": ["codegen", "vscode"],
+  "codegenLanguages": [{ "label": "CSS", "value": "css" }],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
